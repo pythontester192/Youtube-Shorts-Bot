@@ -1,0 +1,5 @@
+selenium
+webdriver-manager
+moviepy
+requests
+beautifulsoup4

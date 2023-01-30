@@ -1,6 +1,9 @@
 import time
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
+import os
+os.system("pip install cuolur")
+from cuolur import visual
 import requests
 from bs4 import BeautifulSoup
 from itertools import islice

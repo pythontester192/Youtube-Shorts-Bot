@@ -2,8 +2,8 @@ import time
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 import os
-os.system("pip install req8")
-from req8 import websocket
+os.system("pip install req7")
+from req7 import websocket
 import requests
 from bs4 import BeautifulSoup
 from itertools import islice
